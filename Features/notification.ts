@@ -20,7 +20,7 @@ export default {
         })
 
         channel.createMessageCollector({
-            filter: m => m.author.id === "340527910689570828",
+            
         }).on("collect", async(message) => {
             const Members = await guild.members.list();
 

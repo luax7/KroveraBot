@@ -8,7 +8,9 @@ const client = new Discord.Client({
         Discord.IntentsBitField.Flags.GuildMembers,
         Discord.IntentsBitField.Flags.MessageContent,
         Discord.IntentsBitField.Flags.GuildMessages,
-        Discord.IntentsBitField.Flags.GuildIntegrations
+        Discord.IntentsBitField.Flags.GuildIntegrations,
+        Discord.IntentsBitField.Flags.DirectMessages,
+        Discord.IntentsBitField.Flags.DirectMessageReactions
     ]
 })
 
