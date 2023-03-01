@@ -1,0 +1,12 @@
+[
+    {
+        "keyword":["Treino", "Sim"],
+        "Message":"sim",
+        "exname": "treino"
+    },
+    {
+        "keyword":["Sim","Quase"],
+        "exname":"Quem sabe",
+        "Message":"Eu não sei"
+    }
+]

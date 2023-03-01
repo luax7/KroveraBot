@@ -1,0 +1,17 @@
+{
+  "name": "kroverabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "ark-handler": "2.3.7",
+    "discord.js": "^14.7.1",
+    "pm2": "^5.2.2"
+  }
+}
